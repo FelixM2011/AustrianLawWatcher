@@ -1,0 +1,16 @@
+# OS / tooling noise
+.DS_Store
+Thumbs.db
+
+# Editor leftovers
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local Hermes state (never commit)
+.hermes_state.json
+data/
+.cache/
+.logs/
+node_modules/
