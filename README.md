@@ -1,4 +1,4 @@
-# Austrian Law Watcher 🇦🇺⚖️
+# Austrian Law Watcher 🇦🇹⚖️
 
 A [Hermes agent skill](https://hermes-agent.nousresearch.com/docs) that monitors new Austrian government bills (**Ministerialentwürfe**) on the official Federal Parliament of Austria page, lists all new ones from the last N days (default: 8), briefly summarizes each from its official **"Kurzinformation"**, and provides **direct links** to every bill's detail page as well as to the overview list.
 
